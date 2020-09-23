@@ -1,0 +1,61 @@
+.site-title {
+    border: 1px solid black;
+    width: 15%;
+    text-align: center;
+    margin: 0 auto;
+}
+nav {
+    text-align: center;
+    margin-right: 2rem;
+    border: 1px solid black;
+}
+nav li {
+    list-style: none;
+    display: inline;
+    padding: 0 1rem;
+    border: 1px solid black;
+}
+
+h1 {
+    border: 1px solid black;
+}
+
+h2 {
+    border: 1px solid black;
+}
+.main-banner {
+    width: 35%;
+    margin: auto;
+    margin-top: 2rem;
+}
+.main-banner img {
+}
+
+.container {
+    border: 1px solid black;
+    width: 25%;
+    margin-top: 2rem;
+}
+
+.container h2 {
+    text-align: center;
+}
+.container-band {
+    margin: 0 auto;
+}
+
+ol {
+    border: 1px solid black;
+}
+
+ol li {
+    border: 1px solid black;
+}
+
+.band-video {
+    margin: 0 auto;
+    padding-top: 2rem;
+    border: 1px solid black;
+    height: 315px;
+    width: 560px;
+}
