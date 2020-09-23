@@ -1,23 +1,20 @@
+body {
+    background-color: magenta;
+}
 .site-title {
-    border: 1px solid black;
-    width: 15%;
+
     text-align: center;
-    margin: 0 auto;
 }
 nav {
     text-align: center;
     margin-right: 2rem;
-    border: 1px solid black;
 }
 nav li {
     list-style: none;
     display: inline;
-    padding: 0 1rem;
+    padding: 1rem 2rem;
     border: 1px solid black;
-}
-
-h1 {
-    border: 1px solid black;
+    margin: 10%;
 }
 
 h2 {
@@ -27,8 +24,6 @@ h2 {
     width: 35%;
     margin: auto;
     margin-top: 2rem;
-}
-.main-banner img {
 }
 
 .container {
@@ -55,7 +50,6 @@ ol li {
 .band-video {
     margin: 0 auto;
     padding-top: 2rem;
-    border: 1px solid black;
     height: 315px;
     width: 560px;
 }
